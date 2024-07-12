@@ -1,0 +1,16 @@
+h1 {
+    font-weight: 900;
+    margin-bottom: 23px;
+}
+
+.container {
+    text-align: left;
+}
+
+.my-row {
+    margin: 10px 5px;
+}
+
+.my-btn {
+    min-width: 180px;
+}
